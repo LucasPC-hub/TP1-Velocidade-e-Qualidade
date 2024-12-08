@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b85a933-f7d9-4e51-a9ed-43d95f8cdc1d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/questao2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TP1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TP1.iml" afterDir="false" />
+    <list default="true" id="8b85a933-f7d9-4e51-a9ed-43d95f8cdc1d" name="Changes" comment="questoes 1 e 2">
+      <change afterPath="$PROJECT_DIR$/questao10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questao3e4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questao6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questao9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/questao1.py" beforeDir="false" afterPath="$PROJECT_DIR$/questao1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.questao1.executor": "Run",
+    "Python.questao10.executor": "Run",
     "Python.questao2.executor": "Run",
+    "Python.questao3e4.executor": "Run",
+    "Python.questao6.executor": "Run",
+    "Python.questao9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
@@ -71,6 +76,19 @@
       <option name="presentableId" value="Default" />
       <updated>1733607729324</updated>
     </task>
+    <task id="LOCAL-00001" summary="questoes 1 e 2">
+      <option name="closed" value="true" />
+      <created>1733613802959</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733613802959</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="questoes 1 e 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="questoes 1 e 2" />
   </component>
 </project>
